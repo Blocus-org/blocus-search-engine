@@ -11,4 +11,4 @@ The privacy respecting search engine written in PHP who works without JavaScript
 ***Tor searching is enabled but Blocus doesn't provide any way to connect to the Tor network, even in the [Blocus Web Browser](https://github.com/Zqfd/blocus-web-browser)*** 
 
 - For more info on config see the original source: [Libre X](https://github.com/hnhx/librex)
-- if you're interested by visiting these sites, Go to the [Tor official site](https://www.torproject.org/)
+- if you're interested by visiting ".onion" sites, Go to the [Tor official site](https://www.torproject.org/)
