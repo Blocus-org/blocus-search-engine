@@ -1,5 +1,5 @@
 <div class="footer-container">
-    <a href="https://github.com/zqfd" target="_blank">Modified Source</a> |
+    <a href="https://github.com/Zqfd/blocus-search-engine">Modified Source</a> |
     <a href="https://github.com/hnhx/librex/">Original Source</a> |
     <a href="./settings.php">Settings</a> |
     <a href="./about.php">About</a> |
