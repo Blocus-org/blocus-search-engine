@@ -1,7 +1,7 @@
 # Blocus Search Engine
 The privacy respecting search engine written in PHP who works without JavaScript (Libre X custom interface from Blocus)
 
-Instance in preparation
+Instance: [search.blocus.ch](https://search.blocus.ch)
 
 - How to host Blocus Search Engine?
   - You need to have a working PHP web server already setup
